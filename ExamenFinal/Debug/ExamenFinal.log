@@ -1,0 +1,5 @@
+﻿  Juego.cpp
+D:\Programación\Visual Studio Microsoft\Dodgeball Game\ExamenFinal\Juego.h(26,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Juego.obj : /DEBUG:FASTLINK no se admite cuando hay presente código administrado; reiniciando vínculo con /DEBUG:FULL
+  Juego.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  ExamenFinal.vcxproj -> D:\Programación\Visual Studio Microsoft\Dodgeball Game\ExamenFinal\Debug\ExamenFinal.exe

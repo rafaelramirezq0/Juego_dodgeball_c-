@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\ExamenFinal\Debug\ExamenFinal.vcxprojAssemblyReference.cache
+C:\Users\User\Desktop\ExamenFinal\Debug\ExamenFinal.Juego.resources
+C:\Users\User\Desktop\ExamenFinal\Debug\ExamenFinal.vcxproj.GenerateResource.cache
+C:\Users\User\Desktop\ExamenFinal\Debug\ExamenFinal.exe
+C:\Users\User\Desktop\ExamenFinal\Debug\ExamenFinal.pdb
+D:\Programación\Visual Studio Microsoft\Completo Sergio\ExamenFinal\Debug\ExamenFinal.vcxprojAssemblyReference.cache
+D:\Programación\Visual Studio Microsoft\Completo Sergio\ExamenFinal\Debug\ExamenFinal.Juego.resources
+D:\Programación\Visual Studio Microsoft\Completo Sergio\ExamenFinal\Debug\ExamenFinal.vcxproj.GenerateResource.cache
+D:\Programación\Visual Studio Microsoft\Completo Sergio\ExamenFinal\Debug\ExamenFinal.exe
+D:\Programación\Visual Studio Microsoft\Completo Sergio\ExamenFinal\Debug\ExamenFinal.pdb
+D:\Programación\Visual Studio Microsoft\Dodgeball Game\ExamenFinal\Debug\ExamenFinal.vcxprojAssemblyReference.cache
+D:\Programación\Visual Studio Microsoft\Dodgeball Game\ExamenFinal\Debug\ExamenFinal.Juego.resources
+D:\Programación\Visual Studio Microsoft\Dodgeball Game\ExamenFinal\Debug\ExamenFinal.vcxproj.GenerateResource.cache
+D:\Programación\Visual Studio Microsoft\Dodgeball Game\ExamenFinal\Debug\ExamenFinal.exe
+D:\Programación\Visual Studio Microsoft\Dodgeball Game\ExamenFinal\Debug\ExamenFinal.pdb
